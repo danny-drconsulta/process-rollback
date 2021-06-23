@@ -1,4 +1,4 @@
-**# <NOME DA FEATURE>**
+**# NOME DA FEATURE**
   
 **## Oque esta sendo publicado?**
   - Feature (S2-693)
